@@ -1,3 +1,6 @@
+# NVIDIA FLARE Docker run
+https://github.com/NVIDIA/NVFlare/blob/main/examples/advanced/cifar10/cifar10-real-world/README.md
+
 # NVIDIA FLARE Workspace 
 In folder: 'cifar10-cifar10-real-world'
 
